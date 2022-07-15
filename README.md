@@ -59,7 +59,7 @@ Color-Tester-Design-MB-A7 design, but differs in the count of RGB LEDs.
 ![Target device assembly](https://github.com/timothystotts/fpga-colors-tester-3/blob/main/Color-Tester-Design-Documents/img_color-palette-tester-assembled-20200831_202137119.jpg)
 
 ### Target device assembly: Arty S7-25 with Pmod KYPD, Pmod OLEDrgb, on extension cables
-![Target device assembly](https://github.com/timothystotts/fpga-colors-tester-3/blob/main/Color-Tester-Design-Documents/img_color-palette-tester-assembled-?.jpg)
+![Target device assembly](https://github.com/timothystotts/fpga-colors-tester-3/blob/main/Color-Tester-Design-Documents/img_color-palette-tester-s7-assembled-20220715.jpg)
 
 ### Target device assembly: Zybo Z7-20 with Pmod KYPD, Pmod OLEDrgb, on extension cables
 ![Target device assembly](https://github.com/timothystotts/fpga-colors-tester-3/blob/main/Color-Tester-Design-Documents/img_color-palette-tester-zynq-assembled-20200902_130951746.jpg)
@@ -68,7 +68,7 @@ Color-Tester-Design-MB-A7 design, but differs in the count of RGB LEDs.
 ![Target device execution example](https://github.com/timothystotts/fpga-colors-tester-3/blob/main/Color-Tester-Design-Documents/img_color-palette-tester-executing-a-20200831_204635464.jpg)
 
 ### Target device execution example: Arty S7-25 with Pmod KYPD, Pmod OLEDrgb, on extension cables
-![Target device execution example](https://github.com/timothystotts/fpga-colors-tester-3/blob/main/Color-Tester-Design-Documents/img_color-palette-tester-executing-a-?.jpg)
+![Target device execution example](https://github.com/timothystotts/fpga-colors-tester-3/blob/main/Color-Tester-Design-Documents/img_color-palette-tester-s7-executing-a-20220715.jpg)
 
 ### Target device execution example: Zybo Z7-20 with Pmod KYPD, Pmod OLEDrgb, on extension cables
 ![Target device execution example](https://github.com/timothystotts/fpga-colors-tester-3/blob/main/Color-Tester-Design-Documents/img_color-palette-tester-zynq-executing-a-20200902_130933775.jpg)
