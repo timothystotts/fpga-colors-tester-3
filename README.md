@@ -16,13 +16,13 @@ versus 16-bit color mixing of a 96x64 OLEDrgb display's text.
 
 The Xilinx MicroBlaze designs can now target either of two FPGA development boards produced by Digilent Inc; one being
 lower cost.
-	- Digilent Inc. Arty-S7-25 FPGA development board containing a small Xilinx Spartan-7 FPGA
-	- Digilent Inc. Arty-A7-100 FPGA development board containing a large Xilinx Artix-7 FPGA
+- Digilent Inc. Arty-S7-25 FPGA development board containing a small Xilinx Spartan-7 FPGA
+- Digilent Inc. Arty-A7-100 FPGA development board containing a large Xilinx Artix-7 FPGA
 
 Two peripherals are used: Digilent Inc. Pmod KYPD, Digilent Inc. Pmod OLEDrgb.
 
 Additionally, the Xilinx Zynq design targets the
-Digilent Inc. Zybo-Z7-20 FPGA development board containing a Xilinx Zynq-7000 APSoC.
+- Digilent Inc. Zybo-Z7-20 FPGA development board containing a Xilinx Zynq-7000 APSoC.
 
 Two peripherals are used: Digilent Inc. Pmod KYPD, Digilent Inc. Pmod OLEDrgb.
 
