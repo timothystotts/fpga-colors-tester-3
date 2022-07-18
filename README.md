@@ -8,7 +8,10 @@ Now with support for:
 
 - Digilent Inc. Arty S7-25 FPGA development board containing a small Xilinx Spartan-7 FPGA
 - Digilent Inc. Arty A7-100 FPGA development board containing a large Xilinx Artix-7 FPGA
-- Digilent Inc. Zybo Z7-20 APSoC development board containing a moderate Zyng-7000 SoC.
+- Digilent Inc. Zybo Z7-20 APSoC development board containing a moderate Xilinx Zynq-7000 SoC.
+
+Note that this project is kept as a beginner-level design that students, hobbyists, and
+FPGA enthusiasts may find interesting.
 
 ## Description
 A small FPGA project of different implementations for testing 24-bit color palette PWM mixing of discrete RGB LEDs
