@@ -53,7 +53,7 @@ Color-Tester-Design-MB-A7 design, but differs in the count of RGB LEDs.
 
 ### Project information document:
 
-[FPGA Colors Palette Tester info](https://github.com/timothystotts/fpga-colors-tester-3/blob/main/Colors%20Palette%20Tester.pdf)
+[FPGA Colors Palette Tester info](https://github.com/timothystotts/fpga-colors-tester-3/blob/main/Colors%20Palette%20Tester%20-%20Refreshed.pdf)
 
 ### Target device assembly: Arty A7-100 with Pmod KYPD, Pmod OLEDrgb, on extension cables
 ![Target device assembly](https://github.com/timothystotts/fpga-colors-tester-3/blob/main/Color-Tester-Design-Documents/img_color-palette-tester-assembled-20200831_202137119.jpg)
