@@ -1,6 +1,6 @@
 # fpga-colors-tester-3
 
-FFPGA Colors Palette Tester Version 3
+FPGA Colors Palette Tester Version 3
 
 by Timothy Stotts
 
