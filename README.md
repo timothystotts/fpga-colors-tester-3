@@ -16,13 +16,13 @@ versus 16-bit color mixing of a 96x64 OLEDrgb display's text.
 
 The Xilinx MicroBlaze designs can now target either of two FPGA development boards produced by Digilent Inc; one being
 lower cost.
-- Digilent Inc. Arty-S7-25 FPGA development board containing a small Xilinx Spartan-7 FPGA
-- Digilent Inc. Arty-A7-100 FPGA development board containing a large Xilinx Artix-7 FPGA
+- Digilent Inc. Arty S7-25 FPGA development board containing a small Xilinx Spartan-7 FPGA
+- Digilent Inc. Arty A7-100 FPGA development board containing a large Xilinx Artix-7 FPGA
 
 Two peripherals are used: Digilent Inc. Pmod KYPD, Digilent Inc. Pmod OLEDrgb.
 
 Additionally, the Xilinx Zynq design targets the
-- Digilent Inc. Zybo-Z7-20 FPGA development board containing a Xilinx Zynq-7000 APSoC.
+- Digilent Inc. Zybo Z7-20 FPGA development board containing a Xilinx Zynq-7000 APSoC.
 
 Two peripherals are used: Digilent Inc. Pmod KYPD, Digilent Inc. Pmod OLEDrgb.
 
@@ -30,7 +30,7 @@ The design is broken into three groupings.
 The first group targets the Digilent Inc. Arty A7-100 development board.
 The second group targets the Digilent Inc. Arty S7-25 development board.
 The last group targets the Digilent Inc. Zybo Z7-20 development board.
-The projects are likely portable to the smaller Arty A7-35 and Zybo-Z7-10
+The projects are likely portable to the smaller Arty A7-35 and Zybo Z7-10
 respectively as the designs are low resource utilization.
 
 The folder Color-Tester-Design-MB-A7 contains a Xilinx Vivado IP Integrator plus
