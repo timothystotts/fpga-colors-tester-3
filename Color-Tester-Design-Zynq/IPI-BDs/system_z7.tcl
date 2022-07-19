@@ -205,7 +205,7 @@ proc create_root_design { parentCell } {
 
 
   # Create ports
-  set ld0123_basic [ create_bd_port -dir O -from 0 -to 0 ld0123_basic ]
+  set ld0123_basic [ create_bd_port -dir O -from 3 -to 0 ld0123_basic ]
   set ld56_rgb [ create_bd_port -dir O -from 5 -to 0 ld56_rgb ]
 
   # Create instance: PWM_0, and set properties
@@ -216,6 +216,9 @@ proc create_root_design { parentCell } {
 
   # Create instance: PWM_1, and set properties
   set PWM_1 [ create_bd_cell -type ip -vlnv digilentinc.com:IP:PWM:2.0 PWM_1 ]
+  set_property -dict [ list \
+   CONFIG.NUM_PWM {4} \
+ ] $PWM_1
 
   # Create instance: PmodKYPD_0, and set properties
   set PmodKYPD_0 [ create_bd_cell -type ip -vlnv digilentinc.com:IP:PmodKYPD:1.0 PmodKYPD_0 ]
