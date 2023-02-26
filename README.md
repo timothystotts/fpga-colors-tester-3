@@ -4,6 +4,12 @@ FPGA Colors Palette Tester Version 3
 
 by Timothy Stotts
 
+This project version replaces
+[fpga-colors-tester-1](https://github.com/timothystotts/fpga-colors-tester-1)
+and
+[fpga-colors-tester-2](https://github.com/timothystotts/fpga-colors-tester-2)
+.
+
 Now with support for:
 
 - Digilent Inc. Arty S7-25 FPGA development board containing a small Xilinx Spartan-7 FPGA
